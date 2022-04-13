@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ashwiniwagh
 - 👀 I’m interested in ...c++
 - 🌱 I’m currently learning ...3rd year
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on...github
+- 📫 How to reach me...aurngabad
 
 <!---
 Ashwiniwa/Ashwiniwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
